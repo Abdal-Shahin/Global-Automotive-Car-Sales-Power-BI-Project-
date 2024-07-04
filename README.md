@@ -1,4 +1,4 @@
-# GLOBAL AUTOMOTIVE CAR SALES ANALYSIS PROJECT
+# GLOBAL AUTOMOTIVE SALES ANALYSIS PROJECT
 
 This project involves analyzing car sales data to gain valuable insights into sales performance, customer demographics, and geographic trends. The project showcases my ability to perform data cleaning, transformation, and visualization using Power BI.
 
@@ -26,6 +26,11 @@ I created several calculated measures to facilitate deeper insights:
 - Resale Revenue
 - Total No. of Sales
 
+<p align="center">
+  <img src="https://github.com/Abdal-Shahin/Global-Automotive-Car-Sales-Power-BI-Project-/assets/173780042/6c1747a7-65e0-4126-b45b-da76ca81c087" alt="Dashboard Screenshot">
+</p>
+
+
 ## DASHBOARD VISUALIZATION
 
 The dashboard is divided into two separate pages for a comprehensive analysis:
@@ -42,9 +47,10 @@ This page provides an overview of sales performance through various visuals:
 - No. of Sales of New vs. Old Cars (Stacked Bar Chart)
 - **KPI Cards**: Total Revenue, Resale Revenue, Avg. Sale Price, Total No. of Sales, and Profit Margin.
 
+<p align="center">
+  <img src="https://github.com/Abdal-Shahin/Global-Automotive-Car-Sales-Power-BI-Project-/assets/173780042/5e38004d-6b46-4c1d-a804-0c23f514aa39" alt="Dashboard Screenshot">
 
-
-### Page 2: Marketing Intelligence: Geographic and Demographic Insights
+### Page 2: Market Intelligence: Geographic and Demographic Insights
 
 This page offers insights into customer demographics and geographic distribution:
 
@@ -52,6 +58,10 @@ This page offers insights into customer demographics and geographic distribution
 - Age Distribution of Buyers (Stacked Column Chart)
 - Top 10 Performing Countries (Table)
 - Gender Distribution of Car Purchases (Donut Chart)
+
+<p align="center">
+  <img src="https://github.com/Abdal-Shahin/Global-Automotive-Car-Sales-Power-BI-Project-/assets/173780042/a0aed198-ccb4-453b-998d-94319570a418" alt="Dashboard Screenshot">
+</p>
 
 ## KEY INSIGHTS AND FINDINGS
 
@@ -82,4 +92,4 @@ The insights derived from this car sales analysis dashboard provide a comprehens
 - **Depreciation Trends**: Brands with low depreciation rates, like MG, could be highlighted to customers looking for long-term value.
 - **Sales Trends Over Time**: The sales trend shows a peak from 2000 to 2002, with consistency up to 2020 and a decline due to the pandemic. Post-pandemic strategies could focus on revitalizing sales through targeted promotions.
 
-This project demonstrates my proficiency in data cleaning, transformation, and visualization using Power BI, showcasing my ability to turn raw data into actionable insights that can drive key business decisions.
+
