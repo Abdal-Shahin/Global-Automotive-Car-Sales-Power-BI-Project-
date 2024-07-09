@@ -2,6 +2,9 @@
 
 This project involves analyzing car sales data to gain valuable insights into sales performance, customer demographics, and geographic trends. The project showcases my ability to perform data cleaning, transformation, and visualization using Power BI.
 
+### Live Dashboard: https://rb.gy/jsiwb9
+
+
 ## DATA SOURCE
 
 The raw data was downloaded from the [data.world website](https://data.world/). The dataset included various attributes related to car sales, such as brand, model, country, sale amount, resale amount, and 5-year depreciation percentage.
